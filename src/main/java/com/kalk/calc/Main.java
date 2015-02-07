@@ -1,7 +1,6 @@
-package io.game.numbers.main;
+package com.kalk.calc;
 
 import com.google.common.base.Stopwatch;
-import io.game.numbers.game.GivenSet;
 
 import java.util.Scanner;
 import java.util.concurrent.TimeUnit;

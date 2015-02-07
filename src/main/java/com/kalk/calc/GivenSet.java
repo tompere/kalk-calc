@@ -1,4 +1,4 @@
-package io.game.numbers.game;
+package com.kalk.calc;
 
 import java.util.ArrayList;
 import java.util.HashSet;

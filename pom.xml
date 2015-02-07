@@ -45,7 +45,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>io.game.numbers.main.Main</mainClass>
+                            <mainClass>com.kalk.calc.Main</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>

@@ -63,7 +63,7 @@ public class Main {
     private static void playGame() {
         stopwatch = Stopwatch.createStarted();
         GivenSet gamePlay = new GivenSet(set, target);
-        System.out.println("calculating possible solutions ... ");
+        System.out.println("\ncalculating possible solutions ... \n");
         if (!gamePlay.isSetGood()){
             System.out.println("There are no solutions for the given set");
         }
